@@ -7,7 +7,7 @@ This project implements an In-Application Programming (IAP) solution for STM mic
 
 The IAP solution is designed to be robust and reliable, ensuring that firmware updates can be performed safely in the field.
 
-##How To Use It.
+## How To Use It.
 
 main.c
 
